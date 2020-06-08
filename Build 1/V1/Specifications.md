@@ -2,6 +2,8 @@
 
 Build 1, V1.0
 
+![](/images/workstationv11.jpg)
+
 Current Components and Specifications
 -------------------------------------
 
