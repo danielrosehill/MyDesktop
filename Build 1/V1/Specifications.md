@@ -4,7 +4,7 @@ Build 1, V1.0
 
 ![](/images/workstationv11.jpg)
 
-Current Components and Specifications
+### Current Components and Specifications (Hardware)
 -------------------------------------
 
 | Component | Supplier | Model | Link | Notes |
@@ -18,9 +18,29 @@ Current Components and Specifications
 | Storage | Kingston | SSDs x 4 | [Link](https://www.kingston.com/datasheets/SUV400S3_us.pdf) | See: My [Ubuntu backup strategy](https://www.danielrosehill.co.il/myblog/my-current-ubuntu-backup-strategy/) if you're curious why I run 4 SSDs, which is the the maximum amount that my motherboard can support. 1 is my "production" Ubuntu OS, 1 is Windows, and 2 are used exclusively for storing backups (Clonezilla images and Timeshift restore points). Yes, the latter could be HDDs but ..... noises. |
 | Cooler | Noctau | NH l9x65 | [Link](https://noctua.at/en/nh-l9x65) |  |
 
-Current operating system: Ubuntu 19.04
+### Current Components and Specifications (Software)
 
-Additional Connected Equipment
+OS: Ubuntu 20.04 LTS (Focal Fossa)
+
+Disk partition table:
+
+SDA (480GB SSD)
+-> Ubuntu 
+
+SDB (240GB SSD)
+-> [Clonezilla](https:/www.clonezilla.org) Clonezilla backups
+
+SDC (480GB SSD)
+-> Timeshift system restore points 
+
+
+SDD (120GB SSD)
+-> Windows 10 
+
+![](/images/workstationv11.jpg)
+
+
+### Additional Connected Equipment
 ------------------------------
 
 | Component | Details | Details |
