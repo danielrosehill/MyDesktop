@@ -20,24 +20,24 @@ Build 1, V1.0
 
 ### Current Components and Specifications (Software)
 
-OS: Ubuntu 20.04 LTS (Focal Fossa)
+**OS:** Ubuntu 20.04 LTS (Focal Fossa)
 
 Disk partition table:
 
-SDA (480GB SSD)
+**SDA (480GB SSD)**
 -> Ubuntu 
 
-SDB (240GB SSD)
--> [Clonezilla](https:/www.clonezilla.org) Clonezilla backups
+**SDB (240GB SSD)**
+-> [Clonezilla](https:/www.clonezilla.org) backups
 
-SDC (480GB SSD)
+**SDC (480GB SSD)**
 -> Timeshift system restore points 
 
 
-SDD (120GB SSD)
+**SDD (120GB SSD)**
 -> Windows 10 
 
-![](/images/diskpartitioning.jpg)
+![](/images/diskpartitioning.png)
 
 
 ### Additional Connected Equipment
