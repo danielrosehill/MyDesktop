@@ -37,7 +37,7 @@ SDC (480GB SSD)
 SDD (120GB SSD)
 -> Windows 10 
 
-![](/images/workstationv11.jpg)
+![](/images/diskpartitioning.jpg)
 
 
 ### Additional Connected Equipment
