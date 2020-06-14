@@ -47,3 +47,7 @@ Disk partition table:
 | --- | --- | --- |
 | PSU | Eaton 650W PSU |  |
 | Monitors | [AOC E2275SWJ](https://www.amazon.co.uk/AOC-E2275SWJ-Widescreen-Multimedia-1920x1080/dp/B01CO2SH9M) x 3, each connected over HDMI |
+
+### UPS Connection Diagram
+
+![](/images/upsconnnections.png)
