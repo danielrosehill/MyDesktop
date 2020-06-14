@@ -50,4 +50,4 @@ Disk partition table:
 
 ### UPS Connection Diagram
 
-![](/images/upsconnnections.png)
+![](/images/upsconnnections.png | width=800)
